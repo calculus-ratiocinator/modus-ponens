@@ -1,0 +1,2 @@
+# modus-ponens
+Modus Ponens
